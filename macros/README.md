@@ -17,9 +17,12 @@ Both compute the eigenvalues and eigenvectors of a small matrix using the
 [`src/autovalores/qr.py`](../src/autovalores/qr.py).
 
 ## How to use?
-<img src="imgs/init.png" alt="home" width="300">
-<img src="imgs/entry.png" alt="entry" width="300">
-<img src="imgs/end.png" alt="end" width="300">
+<div>
+  <img src="imgs/init.png" alt="home" width="300">
+ <img src="imgs/entry.png" alt="entry" width="300">
+ <img src="imgs/end.png" alt="end" width="300">
+</div>
+
 
 ## Which one should I use?
 
